@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditya 
-- 👀 I’m interested in game development
+- 👀 visit my portfolio-https://portfolio-aditya-khopade.streamlit.app/
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adityakhopade2003@gmail.com
